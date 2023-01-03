@@ -1,0 +1,15 @@
+package org.nba.application
+
+class ResearchDuration {
+	
+	String typeOfExercise
+	String reasonsForSending
+	String numOfTimesOfSending
+	
+
+    static constraints = {
+		typeOfExercise nullable:true, blank:true
+		reasonsForSending nullable:true, blank:true
+		numOfTimesOfSending nullable:true, blank:true
+    }
+}

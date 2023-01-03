@@ -1,0 +1,12 @@
+<plugin name='xss-sanitizer' version='0.4.0' grailsVersion='2.0 &gt; *'>
+  <title>Xss Sanitizer Plugin</title>
+  <description>Grails plugin for sanitizing XSS from the user input.
+
+This plugin uses OWASP ESAPI library to sanitize request parameters. This reduces the risk of dangerous XSS request parameters possibly being rendered on the client.
+</description>
+  <documentation>http://grails.org/plugin/xss-sanitizer</documentation>
+  <type>XssSanitizerGrailsPlugin</type>
+  <resources>
+    <resource>filters.XssSanitizerFilters</resource>
+  </resources>
+</plugin>

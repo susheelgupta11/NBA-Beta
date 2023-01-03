@@ -1,0 +1,1 @@
+<div  id="revenue">₹ ${totalRevenue.get(0)?:0}</div>

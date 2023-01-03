@@ -1,0 +1,1 @@
+function closePdf(){$("#pdfForm").css("display","none");$("#ResultForm").css("display","block");$("#pdfCloseBut").css("display","none")}$(document).ready(function(){$("#pdfForm").css("display","none");$("#pdfCloseBut").css("display","none");var e=document.getElementsByClassName("pdfOpenClass")})

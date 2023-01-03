@@ -1,0 +1,1 @@
+CKEDITOR.plugins.setLang("wordcount","en",{WordCount:"Words:",CharCount:"Characters:",CharCountWithHTML:"Characters (with HTML):",Paragraphs:"Paragraphs:",pasteWarning:"Content can not be pasted because it is above the allowed limit",Selected:"Selected: ",title:"Statistics"})

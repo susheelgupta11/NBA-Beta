@@ -1,0 +1,9 @@
+<plugin name='xframeoptions' version='1.0' grailsVersion='1.2 &gt; *'>
+  <author>Hubert A. Klein Ikkink aka mrhaki</author>
+  <authorEmail>h.kleinikkink@gmail.com</authorEmail>
+  <title>X-Frame-Options Plugin</title>
+  <description>Servlet filter that adds a X-FRAME-OPTIONS response header.</description>
+  <documentation>http://github.com/mrhaki/grails-x-frame-options-plugin/</documentation>
+  <type>XframeoptionsGrailsPlugin</type>
+  <resources />
+</plugin>
